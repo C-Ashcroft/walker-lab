@@ -1,4 +1,4 @@
-function PlotSingleSubjectOriginal
+function PlotSingleSubject
 
 cd SingleTrial/ %change to the directory where your data is
  
